@@ -554,13 +554,13 @@ header a.button {
   position: absolute;
   right: 0;
   top: 0;
-  background: transparent url(../images/github-button.png) 0 0 no-repeat;
+  background: transparent url(https://cloud.githubusercontent.com/assets/192568/4790284/59530c52-5dcf-11e4-8b7a-c8d2a567bc16.png) 0 0 no-repeat;
 }
 aside a.button {
   width: 138px;
   padding-left: 64px;
   display: block;
-  background: transparent url(../images/download-button.png) 0 0 no-repeat;
+  background: transparent url(https://cloud.githubusercontent.com/assets/192568/4790284/59530c52-5dcf-11e4-8b7a-c8d2a567bc16.png) 0 0 no-repeat;
   margin-bottom: 20px;
   font-size: 21px;
 }
