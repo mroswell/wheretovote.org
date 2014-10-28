@@ -154,7 +154,7 @@ mark {
  */
 
 small {
-  font-size: 80%;
+  font-size: 85%;
 }
 
 /**
@@ -545,7 +545,7 @@ aside a.button {
   display: block;
   background: transparent url('https://cloud.githubusercontent.com/assets/192568/4800489/9f8a12ea-5e26-11e4-80f1-7ceee2d7aca4.png') 0 0 no-repeat;
   margin-bottom: 20px;
-  font-size: 19px;
+  font-size: 22px;
 }
 
 code, pre {
